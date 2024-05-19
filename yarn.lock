@@ -10883,9 +10883,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"react-native-rn-test@workspace:.":
+"react-native-rn-test-new@workspace:.":
   version: 0.0.0-use.local
-  resolution: "react-native-rn-test@workspace:."
+  resolution: "react-native-rn-test-new@workspace:."
   dependencies:
     "@commitlint/config-conventional": ^17.0.2
     "@evilmartians/lefthook": ^1.5.0
