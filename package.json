@@ -41,14 +41,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeremiahNewton/react-native-rn-test.git"
+    "url": "git+https://github.com/jeremiahNewton/rn-test.git"
   },
   "author": "Jeremiah <jeremiah@newton.co> (https://github.com/jeremiahNewton)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jeremiahNewton/react-native-rn-test/issues"
+    "url": "https://github.com/jeremiahNewton/rn-test/issues"
   },
-  "homepage": "https://github.com/jeremiahNewton/react-native-rn-test#readme",
+  "homepage": "https://github.com/jeremiahNewton/rn-test#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

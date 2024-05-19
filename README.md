@@ -5,13 +5,13 @@ rn test
 ## Installation
 
 ```sh
-npm install react-native-rn-test
+npm install react-native-rn-test-new
 ```
 
 ## Usage
 
 ```js
-import { multiply } from 'react-native-rn-test';
+import { multiply } from 'react-native-rn-test-new';
 
 // ...
 
